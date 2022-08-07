@@ -165,3 +165,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# files created within project - might remove this later
+gen1Moves.json
+gen1Stats.json
