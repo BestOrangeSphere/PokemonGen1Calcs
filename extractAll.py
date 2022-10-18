@@ -93,5 +93,6 @@ def extractMoves():
         outfile.close()
 
 if __name__ == '__main__':
-    extractStats()
-    extractMoves()
+    #extractStats()
+    #extractMoves()
+    pass
